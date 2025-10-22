@@ -4,6 +4,8 @@
 **Affiliation:** Chair of Wildlife Ecology and Management, University of Freiburg, Germany  
 **Contact:** jamilshuvo94@gmail.com  
 
+The datasets generated and analyzed during this study are also available in the Figshare repository at https://doi.org/10.6084/m9.figshare.30421744
+
 ---
 
 ## Overview
